@@ -20,3 +20,7 @@ Download Bookie Jar from the Apple Store using this link.
 This privacy policy was last updated on 3 June 2020. 
 
 The application does not require you to create an account or enter your personal details. As such, I do not store or save any of your personal data. It is my intention that the application remains this way. 
+
+### Thank you testers
+@Andrea Gulli
+@Antonios Fiala
